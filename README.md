@@ -1,3 +1,3 @@
 # Machine-Learning-Project
 
-Predicted job satisfaction of Data Scientists
+Predicting job satisfaction of Data Scientists
